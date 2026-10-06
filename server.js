@@ -65,7 +65,7 @@ app.get('/', (req, res) => {
       <body>
         <div class="container">
           <h1>Platform Engineering Demo</h1>
-          <p>Deployed by <strong>Godslight Nwajiobi</strong>. This dashboard demonstrates a secure, interactive containerized deployment.</p>
+          <p>Deployed by <strong>Godslight Micheal Nwajiobi</strong>. This dashboard demonstrates a secure, interactive containerized deployment.</p>
           <div class="stack">
             <span>Docker</span>
             <span>Terraform</span>
